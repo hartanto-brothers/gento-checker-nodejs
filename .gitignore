@@ -1,0 +1,4 @@
+node_modules
+*.txt
+config.json
+example.js
